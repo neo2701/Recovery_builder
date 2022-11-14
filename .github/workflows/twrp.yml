@@ -9,7 +9,7 @@ env:
   # (required) manifest branch 
   BRANCH: twrp-12.1
   # (required) device codename i.e: sweet mojito.. 
-  DEVICE: RM6785
+  DEVICE: RMX2001
   # (required) device tree link with branch if exists
   DT_LINK: https://github.com/psionicprjkt/android_device_realme_RM6785.git
   DT_BRANCH: android-12
