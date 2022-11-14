@@ -11,7 +11,7 @@ env:
   # (required) device codename i.e: sweet mojito.. 
   DEVICE: RM6785
   # (required) device tree link with branch if exists
-  DT_LINK: https://github.com/psionicprjkt/android_device_realme_RM6785/tree/android-12.git
+  DT_LINK: https://github.com/psionicprjkt/android_device_realme_RM6785.git
   DT_BRANCH: android-12
   # (required) who made your phone ? 
   MANUFACTURER: realme
